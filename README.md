@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Bijay Rai (@beejoy)
-- 👀 I’m interested in Frontend development.
-- 🌱 I’m currently learning Javascript and ReactJS.
+- 👋 Hi, I’m Bijay Rai
 - 📫 You can reach me at bijay.chamling@gmail.com
 
 <!---
